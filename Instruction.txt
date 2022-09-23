@@ -1,0 +1,63 @@
+Welcome to React Core Concepts!
+
+# File Structure
+# Install Tailwind And DaisyUi
+
+
+# Why React !! What is React ? 
+ i) React is a JavaScript Library For Building User Interface! 
+ Library => Reuseable Collection of Codes .
+ ii) For Reducing duplicate code AKA DOM !
+ iii) Creator Jordan Walke => 2011 => FaxJs => 2013 => ReactJS
+ iv) document.createElement() vs React.createElement()
+ v) Component ReUseable
+ vi) React is Awesome Beacuse of Developer Experience!
+
+
+# Virtual Dom ! Very Important
+i)DOM is Fast Enough but Showing in The UI is Slow.
+ii)Replica Of DOM => Virtual DOM (Real life Example)
+ii) Diffing Algo / Reconcilation 
+
+
+# Fundamentals Of React !!
+1. JSX - JavaScript XML
+Learning: 
+i) class => className, onlick => onClick
+ii) Diff ways to add style 
+iii)Can write valid js Expression code inside JSX through {} 
+iv) Can access object/ array properties.
+
+
+2. Component 
+Learning:
+i)What is Component? Functional Component !  Component VS Element !
+ii) Component Inside Another Component
+ii)Props in React ! Passing data From Component To Component! Props Drilling !
+!!Warning Don't Chnage Props Inside Component!
+iii) Create Multiple Component! Dynamic Component !
+
+
+3.Explain useState
+state => State is the data that change. 
+Props VS State !
+i) Props Changed by Parent Component !
+ii) State is the own data of that component!
+
+4. Explain useEffect 
+i) Done sideEffects Which is not related to building UI
+ii) Fetching Data from API. 
+
+
+# Project 
+
+
+1.ES7+ React/Redux/React-Native snippets
+2.Path Autocomplete
+3.Path Intellisense
+4.React Extension Pack
+5.Reactjs code snippets
+6.Reactjs code snippets
+7.Tailwind CSS IntelliSense
+
+# Extra Resourses
